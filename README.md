@@ -18,6 +18,7 @@ MachineLearning/
 │   ├── Random_Forest/
 │   ├── SVM/
 │   └── Naive_Bayes/
+|   └── KNN/
 │
 ├── Unsupervised/
 │   ├── K_Means/
